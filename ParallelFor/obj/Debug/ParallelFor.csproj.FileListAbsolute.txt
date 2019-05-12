@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\ACA_HOMEWORK\ParallelFor\ParallelFor\obj\Debug\ParallelFor.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ACA_HOMEWORK\ParallelFor\ParallelFor\obj\Debug\ParallelFor.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ACA_HOMEWORK\ParallelFor\ParallelFor\bin\Debug\ParallelFor.exe.config
+C:\Users\User\Desktop\ACA_HOMEWORK\ParallelFor\ParallelFor\bin\Debug\ParallelFor.exe
+C:\Users\User\Desktop\ACA_HOMEWORK\ParallelFor\ParallelFor\bin\Debug\ParallelFor.pdb
+C:\Users\User\Desktop\ACA_HOMEWORK\ParallelFor\ParallelFor\obj\Debug\ParallelFor.exe
+C:\Users\User\Desktop\ACA_HOMEWORK\ParallelFor\ParallelFor\obj\Debug\ParallelFor.pdb
